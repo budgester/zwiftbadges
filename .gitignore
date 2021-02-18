@@ -1,0 +1,5 @@
+.tox
+.DS_Store
+__pycache__
+ZwiftBadges.egg-info
+settings.cfg
